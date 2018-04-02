@@ -1,0 +1,19 @@
+{
+  "name": "oleh-polishchuk.github.io-assets",
+  "version": "1.0.0",
+  "description": "Assets for repo oleh-polishchuk.github.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://oleh-polishchuk:Elisabet2015@github.com/oleh-polishchuk/oleh-polishchuk.github.io-assets.git"
+  },
+  "author": "oleh.polishchuk.ck@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oleh-polishchuk/oleh-polishchuk.github.io-assets/issues"
+  },
+  "homepage": "https://github.com/oleh-polishchuk/oleh-polishchuk.github.io-assets#readme"
+}
