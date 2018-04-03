@@ -4,6 +4,8 @@
   "description": "Assets for repo oleh-polishchuk.github.io",
   "main": "index.js",
   "scripts": {
+    "version": "npm version patch",
+    "git-push": "git add --all ; git commit -m 'Update module' ; git push ; git pull ;",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
